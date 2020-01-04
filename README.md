@@ -1,4 +1,4 @@
-# Tensorflow - Facial Expression
+# Tensorflow Facial Expression
 
 A Convolution Neural Network using Tensorflow to classify different facial expressions.
 
